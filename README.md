@@ -1,4 +1,4 @@
-# 🏳️‍⚧️ Sobre mim:
+# 🪷 Sobre mim:
 🐭To estudando uns negócio aí pra ser backend dev :P <br>🛠️ Atualmente estudando Python<br>
 
 ## 💻 Conhecimentos e tecnologias:
