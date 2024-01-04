@@ -6,4 +6,4 @@
 
 
 ## 🌐 Socials:
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)(https://twitter.com/yuriasar)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/yuriasar)
